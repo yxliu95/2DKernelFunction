@@ -1,6 +1,6 @@
 Purpose: The program is designed for computation of the 2D kernel functions。
 
-Auther: Yuxiang Liu
+Auther: Yuxiang Liu ( Contact me: yxliu17@mail.ustc.edu.cn )
 
 Address: Department of Earth and Space Sciences, Southern University of Science and Technology, Shenzhen, 518055, China.
 
